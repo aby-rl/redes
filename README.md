@@ -4,3 +4,4 @@ En este proyecto se trabaja con la base de datos de imágenes de MNIST con el ob
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./Redes.ipynb)
 - [Reporte en formato html](./Redes.html)
+- [Video](./A3.2_612498.mp4)
